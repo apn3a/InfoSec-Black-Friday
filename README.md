@@ -78,7 +78,7 @@ https://letsdefend.io/
 https://app.letsdefend.io/enterprise-basic  
 https://letsdefend.io/cybersecurity-newsletter  
 55% off on annual plans with code: `BLCKFRDY55` \
-98% off Cyber Newsletter with code: `BLCKFRDY-NEWS` \
+$98 off Cyber Newsletter with code: `BLCKFRDY-NEWS` \
 Deal ends: 2nd December
 
 **CloudBreach** - Offensive Azure & AWS Security Trainings and Certifications :see_no_evil: \
